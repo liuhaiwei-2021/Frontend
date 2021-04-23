@@ -1,0 +1,15 @@
+/** @format */
+
+body {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+}
+
+button {
+  margin: 20px;
+}
+
+.table {
+  margin-bottom: 1.2rem;
+}
